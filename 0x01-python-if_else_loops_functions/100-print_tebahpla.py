@@ -4,4 +4,3 @@ for letter in range(26):
         print('{:c}'.format(122 - letter), end='')
     else:
         print('{:c}'.format(90 - letter), end='')
-
